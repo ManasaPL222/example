@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 hello
 Welcome to Git
 
 Changes done need to be updated.
 Hello Hiii
 Welcome to Git
+=======
++ hello
++Hiii
++Welcome to Git
+>>>>>>> parent of a0a0711... Added_new
