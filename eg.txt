@@ -1,3 +1,2 @@
-Hello
-Hiii
+Hello Hiii
 Welcome to Git
