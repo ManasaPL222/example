@@ -1,16 +1,9 @@
-<<<<<<< HEAD
 hello
 Welcome to Git
 
 Changes done need to be updated.
 Hello Hiii
 Welcome to Git
-<<<<<<< HEAD
-=======
-+ hello
-+Hiii
-+Welcome to Git
->>>>>>> parent of a0a0711... Added_new
-=======
-//for fetch operation
->>>>>>> 4c065edd8b975e8e8209b45a920e34ca446bf034
+
+
+//for branch operation // rebase 
