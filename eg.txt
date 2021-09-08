@@ -1,6 +1,5 @@
-+ hello
-+Hiii
-+Welcome to Git
+hello
+Welcome to Git
 
 Changes done need to be updated.
 Hello Hiii
